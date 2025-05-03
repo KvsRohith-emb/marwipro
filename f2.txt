@@ -1,3 +1,7 @@
 hi you taste good
 i am famous
+<<<<<<< HEAD
 i am in main
+=======
+i am biryani
+>>>>>>> biryani
